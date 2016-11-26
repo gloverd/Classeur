@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Module 11-15</title>
+  <link rel="stylesheet" href="http://app.classeur.io/base-min.css" />
+  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+
+</head>
+
+<body>
+  <div class="export-container"><h1 id="module-11---respiratory-mechanics">Module 11 - Respiratory Mechanics</h1>
+<h2 id="readings">Readings</h2>
+<ul>
+<li>B&amp;L[6+]:
+<ul>
+<li>Chapter 20 – you may omit: (1) Figure 20-11 and associated text on page 424, (2) Material on mucus production (pages 426 – 427), and (3) Material on lung development, growth, and aging (pages 428 – 429).</li>
+<li>Chapter 21 – you may omit (1) Figures 21-2 and 21-3 and associated text on page 431.</li>
+</ul>
+</li>
+<li>VSL[14]: - §13.1, 13.2</li>
+<li>West[10]: Chapter1, chapter 7</li>
+</ul>
+<h2 id="video-1-a---overview-of-respiration">Video 1 A - Overview of Respiration</h2>
+<p><strong>Respiration Overview</strong></p>
+<ol>
+<li><strong>Ventilation</strong>: Exchange of air between atmosphere and alveoli by <em>bulk flow</em></li>
+<li>Exchange of O2 and CO2 between alveolar air and blood in lung capilaries by <em>diffusion</em></li>
+<li>Transport of O2 and CO2 through pulmonary and systemic circulation by bulk flow</li>
+<li>Exchange of O2 and CO2 between blood in tissue capillaries and cells in tissues by diffusion</li>
+<li>Cellular utilization of O2 and production of CO2.</li>
+</ol>
+<h2 id="video-2-b----lung-anatomy---part-1">Video 2 B -  Lung Anatomy - Part 1</h2>
+<p><strong>Thoracic cavity</strong></p>
+<p>The <strong>Thoracic cavity</strong> is bounded by the <em>Diaphragm</em>  on the bottom. the diaphragm separates the thorax from the abdomen. In its relaxed position it is domed upwards and when it contracts it will pull down and straighten, pushing the abdominal cavity contents downwards and enlarging the thoracic cavity. The <strong>upper airways</strong>, are the nose, mouth, pharynx, and larynx. The beginning of the trachea is the start of the <strong>lower airways</strong>; the trachea, branches, bronchi, and the lung.</p>
+<p>The function of the <strong>upper airway</strong> is to warm, humidify, and filter the incoming air. there are ribbons of tissue in the nasal cavity <em>terminates</em> (upper, middle, and lower), which cause turbulence, and additional surface area to have large particulates drop out and fall into the nasal mucus, and be expelled when you blow your nose. when you warm and humidify the air, it prevents it from being a shock when it hits the lower airways.</p>
+<p>The <strong>lower airways</strong> serve to <em>transport gas</em> from the atmosphere into the lung tissue, and to the lower airways that terminate in alveoli where <em>gas exchange</em> happens.</p>
+<p><strong>The lungs</strong></p>
+<p>Trachea &gt; Primary bronchi &gt; secondary bronchi &gt; tertiary bronchi &gt; bronchioles &gt; terminal bronchioles</p>
+<p>There are two separate lungs, the right lung (three lobes) and the left lung (two lobes) that do not communicate with each other and overlap the heart. The top off the lungs is the apex, or the <strong>apical point/portion</strong>, and the bottom is the <strong>base</strong> of the lung. There is a difference in air and blood distribution in the upright posture between the top and the bottom of the lungs.</p>
+<p>**Bronchopulmonary segments ** - <em>(branching of the bronchial tree)</em></p>
+<p>There is no gas exchange going on, but instead serve to as conducting airways. There is a lot of branching, and segments get smaller and smaller as the lobes further divide. The <strong>trachea</strong> divides into the right main bronchus and the left main bronchus. As branching goes on it goes from <strong>conducting airways</strong> to <strong>respiratory units</strong>, which is where gas exchange occurs (approximately after 10-27 generations of branching) down to alveolar ducts.</p>
+<p>The <strong>pulmonary artery</strong> brings <em>venous blood</em> from the right ventricle of the heart. its branches distribute blood to <em>capillaries</em> in close contact with <em>respiratory surface</em> throughout both lungs.</p>
+<p>The <strong>Respiratory Unit</strong> is at the very end of the pipeline. Interchange of respiratory gasses across the alveolar membrane and capillary endothelium to and from blood in capillaries. The alveolar ducts end in alveoli and alveolar sacs, with lots of elastic tissue, to permit distension of lung tissue in inspiration, passive recoil in expiration. The pulmonary veins and arteries end in a very thin network of capillaries.</p>
+<p>Each lung is surrounded by a thin moist membrane called the <strong>pleura</strong>. There are two layers, the <strong>visceral layer</strong> the layer that adheres to the surface of the lung, and the <strong>parietal layer</strong> of membrane that adheres to the inside of the chest wall. Between these layers of the Pleural Sac, is a thin film of liquid allowing the layers to glide past each other. The lungs can slide against the chest wall without being abraded. Elastic recoil of lungs tends to pull the visceral layer away from the parietal layer (creating a subatmospheric interpleural pressure -2mmHg). The fluid sac also plays an important role in respiration as we will see later.</p>
+<p><strong>Structure of an alveolus</strong></p>
+<p>The capillaries are intimately adjacent to the walls of the alveoli. There is passive diffusion of O2 from the air space of the alveoli to the blood, and CO2 can diffuse from the blood picked up at the tissue, into the airspace then blown out during expiration. There are surfactants on the walls of the alveolar cells membrane.</p>
+<h2 id="video-3-c---lung-anatomy---part-3">Video 3 C - Lung Anatomy - Part 3</h2>
+<p><strong>Blood supply to the Lungs</strong></p>
+<p>The lungs have two different blood supplies, instead of just one like most organs. The pulmonary circulation, supplying the alveolar capillaries so there can be gas exchange.</p>
+<ul>
+<li><strong>Pulmonary Circulation</strong></li>
+<li><em>From right ventricle to the pulmonary circulation so it can go to the pulmonary capillaries, pick O2 and deposit CO2. The blood is the pumped from the pulmonary capillaries rich in oxygen, to the systemic capillaries, to diffuse gasses.</em>
+<ul>
+<li>Blood supply to alveolar capillaries
+<ul>
+<li>From right ventricle, (-O2, +CO2)</li>
+<li>To left atrium (+O2, -CO2)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>** Bronochial Circulation**</li>
+<li><em>Systemic circulation of blood to the lungs, because like all living tissue it needs oxygen and nutrients.</em>
+<ul>
+<li>Systemic blood to lungs</li>
+<li>Bronchi, bronchioles, etc.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Overview of circulation types</strong></p>
+<p><strong>Pulmonary circulation</strong>, which will be our focus , starts when blood enters the pulmonary artery, from the venous return low on O2. After lots of branching through arterioles, it goes to the pulmonary capillary network. Air coming in from the bronchi reaches terminal bronchi and respiratory bronchi. Gas will fill in the alveolar space and there will be gas exchange between the pulmonary capillaries and alveolar gas. The blood will then drain from the pulmonary capillaries into the pulmonary venous system where it will be returned, enriched in oxygen, to the left atrium, then go into the left ventricle and systemic circulation.</p>
+<p>The other type of circulation, the <strong>bronchial circulation</strong>, starts at the bronchial artery which nourishes the tissue of bronchi and down to the terminal ends. This eventually ends with its own venous network, and returns to the venous circulation.</p>
+<p><strong>Innervation of the lungs</strong></p>
+<p>There is Parasympathetic, Sympathetic, <em>and</em> Somatic motor nerves going to the lung. There are nerves which innervate smooth muscle surrounding bronchial and bronchiole tissue so the diameter can be controlled, changing airflow. Nerves also control the diameter of the vasculature, to control blood flow. Combined this controls how much blood enters the pulmonary capillaries and how much air enters into the associated alveoli. Its called <strong>Ventilation-perfusion matching</strong>. Finally there is <strong>Lymphatic drainage of the lung</strong> as well, as you might expect</p>
+<ul>
+<li><strong>Parasympathetic innervation</strong> goes to plexi (the pulmonary plexus) and innervates the lung. This is smooth muscle surrounding airways and blood vessels. These originate from the Medulla.</li>
+<li><strong>Sympathetic innervation</strong> also goes to the plexus and then goes to smooth muscle surrounding vasculature and airways These originate from each of the C(1-7), T(1-12) sections of the spinal cord.</li>
+<li>There is <strong>Motor input</strong> to muscles, such as the diaphragm and intercostal muscles. when the diaphragm contracts it increases the size of the thoracic cavity, increasing the volume causing a pressure differential inside compared to atmosphere, which is inhalation. Interior and exterior intercostal muscles are used for inhalation and exhalation. These intercostal nerves originate from the T(1-11) sections of the spinal cord for the intercostal muscles. For the diaphragm, the phrenic nerves originate from the C(3-5) portion.</li>
+</ul>
+<p><strong>Innervation of airways</strong></p>
+<p>Parasympathetic preganglionics that come into a plexus (a ganglion) and there are inputs both inhibitory and exciteatory to smooth muscle that surrounds vasculature and airways.</p>
+<p>Sympathetic postganglionic nerves that go directly to muscle and gland tissue and come to the plexus. From the plexus they drive out inhibitory/excitatory outputs to smooth muscle.</p>
+<p><strong>Structural Elements of the Thoracic Cavity</strong></p>
+<p>The internal space is a closed space that responds as a system to changes in volume. It is bounded:</p>
+<ul>
+<li>above by the ribs and the neck</li>
+<li>on the sides by the ribs and intercostal muscles</li>
+<li>at the back by the ribs and vertebral column</li>
+<li>at the front by the ribs, costal cartilage, and sternum</li>
+<li>below, by the diaphragm (with a central tendon which separates the thoracic cavity from the abdominal cavity).</li>
+</ul>
+<p><strong>Mechanics of motion of chest wall</strong></p>
+<p>On <strong>inspiration</strong>, the muscles that matter are the diaphragm and external intercostal muscles. For two kinds of inspiration:</p>
+<ul>
+<li><strong>Inspiring a tidal volume</strong>: When it is relaxed the <strong>diaphragm</strong> s domed up and pulled into the thoracic cavity. When contracted, the diaphragm descends increasing longitudinal dimension of chest and elevating lower ribs. This increases volume, reduces pressure, and allows the air to enter the alveoli by simple bulk flow.</li>
+<li><strong>Deeper inspiration</strong> is done by the <strong>external intercostal muscles</strong>, which lift the ribs up and out when they contract, further increasing volume in the thoracic cavity, causing a higher pressure differential.</li>
+</ul>
+<p>During <strong>expiration</strong> the work is passive, with external intercostals relax. Forced expiration uses pressure from two sources:</p>
+<ul>
+<li><strong>from below</strong> by the <strong>abdominal muscles</strong>: Rectus abdominus, the Internal oblique, and external obliques. They reduce the size of the thoracic cavity of the abdominal by pushing contents of abdomen against bottom of the diaphragm and reducing the volume, reducing volume in cavity and squeezing on the lungs.</li>
+<li><strong>From above</strong> by the <strong>internal intercostal muscles</strong> by contracting pull the ribs down and in pushing against lungs, further reducing pressure.</li>
+</ul>
+<p><strong>Epithelial tissue surfaction</strong></p>
+<p>More of a lesson on physics. Since the alveoli are connected changes in pressure or size of different alveoli can result in preferential<br>
+filling of some alveoli and collapse of others. This is defined by the law of Laplace:</p>
+<p>\[P = 2T/r\]</p>
+<p>The alveoli with the smaller radius is going to have the higher pressure inside, and will expel its air into the larger alveoli by expanding it. You will lose their surface area for gas exchange and is not a tenable situation.</p>
+<p>Surfactants reduce surface tension, which <strong>reduces the wall tension</strong> (the T factor) so there will not be as much of a miss-match in pressures, and the smaller radius alveoli will not close down at the expense of the larger alveoli. (See page 427 of B&amp;L for more information).</p>
+<h2 id="video-4-d---mechanical-properties-of-the-lung-and-chest-wall.">!!! Video 4 D - Mechanical Properties of the Lung and Chest wall.</h2>
+<p><strong>Curve of breathing times and relations</strong></p>
+<p><img src="http://i.imgur.com/d3YgObn.png" alt="Respiration Volumes"></p>
+<h2 id="video-5-e---pressure-and-flow-in-the-lung">!!! Video 5 E - Pressure and Flow in the Lung</h2>
+<hr>
+<h1 id="module-12---ventilation-v-perfusion-q-and-vq-matching">Module 12 - Ventilation (V), Perfusion (Q), and V/Q Matching</h1>
+<h2 id="readings-1">Readings</h2>
+<ul>
+<li>B&amp;L[6+]: Chapter 22</li>
+<li>VSL[14]: §13.3</li>
+<li>West[10]: Chapter 2, Chapter 4, Chapter 5</li>
+<li>File Glenny RW Teaching ventilation-perfusion relationships in the lung Adv Physiol Edu 2008 vol 32 pp 192-18895.pdf</li>
+</ul>
+<h2 id="video-1-a---ventilation-v">Video 1 A - Ventilation (V)</h2>
+<p>In this module we will focus on several issues:</p>
+<ul>
+<li>Ventilation (V) has to do with getting air to the alveoli</li>
+<li>Perfusion (Q) has to do with getting blood to the pulmonary capillaries.</li>
+<li>V/Q Matching has to do with matching the air delivered to the alveoli to the blood to the capillaries that surround the alveoli.</li>
+</ul>
+<p>The airway starts with the trachea, then divides into the right and left main bronchi, each divding into smaller bronchi, then bronchioles, terminal bronchioles, and finally respiratory units (holding alveoli). Here the alveoli and the air within it are intimately enmeshed by the pulmonary capillaries. The pulmonary capillaries provide blood, the alveoli contain gas, and here ventilation gives gas to the alveoli.</p>
+<p><strong>What is “Respiratory” Air?</strong></p>
+<p>Atmospheric air has the composition of:</p>
+<ul>
+<li>21% O<sub>2</sub></li>
+<li>79% N<sub>2</sub></li>
+<li>trace amounts of other gasses
+<ul>
+<li>normal atmospheric air contains almost no CO<sub>2</sub></li>
+</ul>
+</li>
+</ul>
+<p>The amounts of these gasses can be quantified by their partial pressure of each gas in a mixture, where \(P_X = %X \times P_{baro}\). For example, the partial pressure of oxygen at 1 atm would be written as: $ P_{oxygen} = 0.21 \times 760 mmHg = 160 mmHg$.</p>
+<p>One of the purposes of the <strong>upper respiratory system</strong>, namely the nose and mouth is to humidify and warm incoming air before it reaches the trachea. This air is saturated with water vapor in order to humidify, at body temperature has a pressure of 47 mmHg. Now the partial pressure of oxygen in that saturated air is 150 mmHg, taking the pressure of water vapor into account. \(P_{oxygen, saturated} = 0.21 \times (760-47) mmHg = 150 mmHg\).</p>
+<p><strong>What is alveolar gas?</strong></p>
+<p>What is the gas that we push into the alveoli, so far we have been looking at what is at the top of the trachea. The air being pushed into the alveoli. has the following composition:<br>
+\(P_{alv,O_2} = P_{inhaled (wet)O_2} - (\frac{P_{alv ,CO_2}}{RQ})\)</p>
+<p>The body produces less CO<sub>2</sub> than it consumes O<sub>2</sub>, so the ratio of CO<sub>2</sub> produced to O<sub>2</sub>consumed is the respiratory quotient. In a formula this is :<br>
+\(RQ = \frac{CO_2 excreted by lung}{O_2 Uptake in lung}\)<br>
+\(RQ=V_{CO_2}/V_{O_2}\), and 0.7 &lt;= RQ &lt;= 1</p>
+<p>The actual number is dependent on the metabolic rate, which is representative of a diet, and for a normal diet this is about <code>RQ ~ 0.8</code>.</p>
+<p>One number that we need to use that we haven’t seen yet is \(P_{alv, CO_2}\). which is: \(P_{alv, CO_2} = V_{CO_2} \times \frac{P_{baro} - P_{water vapor}}{V_{alv}}\)</p>
+<p>The final term \(V_{alv}\) is <strong>Alveolar Ventilation</strong>, how much air or gas gets into the alevola per time, expressed in L/min. and that is equal to the tidal ventilation - dead space ventilation:</p>
+<ul>
+<li><strong>tidal ventilation</strong> - how much air air do you move in and out of the lungs per minute</li>
+<li><strong>dead space</strong> - the conducting airways (bronchi/bronchioles/…) have no gas exchange, they are just pipes, so when you breath in a bolus of air, some of that air is going to stay in the pipes, with only a portion reaching the alveoli.</li>
+</ul>
+<p>In essence the alveolar ventilation is the amount of air that actually enters the alveoli, participating in gas exchange.</p>
+<p><strong>Alveolar P<sub>CO2</sub> v Alveolar Ventilation</strong></p>
+<p>The body would like to maintain alveolar \(P_{CO_2}\) at 40 mmHg. How does the body maintain \(P_{CO_2}\) at rest?</p>
+<ul>
+<li><strong>Hyperventilation</strong> - Alveolar \(P_{CO_2} mmHg \downarrow\)
+<ul>
+<li><em>respiratory alkalosis</em></li>
+<li>blood pH increases</li>
+</ul>
+</li>
+<li><strong>Hypoventilation</strong> -  Alveolar \(P_{CO_2} mmHg \uparrow\)
+<ul>
+<li><em>respiratory acidosis</em></li>
+<li>blood pH decreases.</li>
+</ul>
+</li>
+</ul>
+<p>Since blood pH regulates so many biochemical processes, both of these conditions are counter producing for maintaining homeostasis. If you exercise and increase your CO_2 production, \(V_{CO_2}\) then in order to maintain homeostasis we would need to increase our alveolar ventilation to maintain our ideal value for \(P_{CO_2}\).</p>
+<table>
+<thead>
+<tr>
+<th>status</th>
+<th>P<sub>CO2</sub></th>
+<th>V<sub>CO2</sub></th>
+<th>V<sub>alv</sub></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>rest</td>
+<td>40 mmHg</td>
+<td>250 mL/min</td>
+<td>5 L/min</td>
+</tr>
+<tr>
+<td>decrease V<sub>alv</sub></td>
+<td>80 mmHg</td>
+<td>250 mL/min</td>
+<td><code>2.5 L/min</code></td>
+</tr>
+<tr>
+<td>exercise (inc VCO2)</td>
+<td>40 mmHg</td>
+<td><code>750 mL/min</code></td>
+<td>15 L/min</td>
+</tr>
+<tr>
+<td>exercise then dec V<sub>alv</sub></td>
+<td>08 mmHg</td>
+<td><code>750 mL/min</code></td>
+<td><code>7.5 L/min</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Distribution of Ventilation within the lung</strong></p>
+<p>This distribution is not uniform. when you are in an upright posture, the structure of the lung is affected by gravity, and it <strong>pools more at the base</strong> of the lung than at the apex. This maldistribution is less evident at higher lung volumes, than at lower lung volumes, there is self-regulation that takes place.</p>
+<p>Another factor is local regulation at a particular respiratory unit. Airways Resistance and Alveolar compliance will affect the distribution of ventilation to different respiratory units. This modifies the time constant \(\tau=R \times C\), which is the full-to-empty time. It is modified by <code>R</code>, the resistance of the airway leading to the respiratory unit, and <code>C</code> the compliance of the alveoli in that unit. This is just like an RC time constant which the electrical engineers are used to.</p>
+<p><strong>Distribution of lung volume vs translung pressure</strong></p>
+<p>Units at the apex of the lung are less compliant and will receive a smaller proportion of the inspired air than the lungs at the base which are more compliant.</p>
+<blockquote>
+<p>Because of suspension of the lung in the upright position, the pleural pressure (P<sub>pl</sub>) and translung pressure (PL) of units at the apex will be greater than those at the base. These lung units will be larger at any lung volume than units at the base.</p>
+</blockquote>
+<p>This effect is <strong>greatest at residual volume (RV)</strong> (about 20% total lung volume), it is less so at functional residual capacity (FRC) (about 50-70%), and <strong>disappears at total lung capacity (TLC)</strong> (about 90-100%). The maldistribution is a function of how well the lungs are filled up.</p>
+<p><strong>Resistance and Compliance of respiratory units</strong></p>
+<p>A standard respiratory unit will have a Compliance of <code>C=0.8</code> and a Resistance of `R=0.7. When these are combined in \(\tau=R \times C\), a normal unit has \(\tau = 0.56 second\). When plotted time vs. volume change as a % of final volume, for ~2 seconds which is a normal breath, you fill the air with normal.</p>
+<p>If you have a <strong>Increased resistance</strong>, which can happen by contracted smooth muscle surrounding the airway, you will increase the time constant that it takes to fill this unit, and it fill slower, and fills to about an 80% fill after ~2 seconds. moving a little to the bottom and the right. If you have some units with \(\uparrow R\), and some normal, you will have more air distributed to the normal unit than to the unit with increased resistance.</p>
+<p>If you have a unit with <strong>decreased compliance</strong>, has stiffer alveoli, will fill faster, because the time constant is lower, but you will have less air because the alveoli is stiffer and fill to ~50%, because there is less volume forced in.</p>
+<p>It is using these two properties is how the body regulates respiration, it matches respiration and perfusion.</p>
+<p><strong>Dead Space Ventilation</strong></p>
+<p>Ventilation to airways without gas exchange. This is not only the respiratory ‘pipes’, there are two kinds of <em>dead spaces</em>:</p>
+<ul>
+<li><strong>Anatomic</strong>
+<ul>
+<li>These are the conducting airways. There is no gas exchange and there was never any intention of there being gas exchange</li>
+<li>see Module 11, video 2. where we went over the anatomy.</li>
+</ul>
+</li>
+<li><strong>Physiological</strong>
+<ul>
+<li>Total volume of gas per breath where there was no gas exchange. Some alveoli are ventilated but not perfused. The capillaries don’t get any blood so there will be no gas exchange.</li>
+<li>There are also alveoli that can have thickened walls from diseases so there is little to no diffusion of gas. These would also be counted as part of the physiological dead space.</li>
+<li>Physiological dead space is the anatomic dead space + the ‘non-functional’ alveoli. In a normal person, the physiological is only slightly larger, but with certain diseases the physiological dead space can be noticeably larger than anatomic dead space</li>
+</ul>
+</li>
+</ul>
+<h2 id="video-2-b---perfusion-q">Video 2 B - Perfusion (Q)</h2>
+<p>The bringing of blood to the pulmonary capillaries so the blood can exchange CO<sub>2</sub> with the pulmonary capillaries.</p>
+<p>The bronchi branch and sub-divide into smaller units to get to the alveoli, as does the pulmonary artery which brings blood down. They follow each other as they get to the pulmonary units. Here the pulmonary capillaries form a tight mesh-work around the alveoli. Here we are going to focus on how blood gets to the pulmonary capillaries.</p>
+<p><strong>Pulmonary Circulation</strong></p>
+<p>It can be said to begin at the right atrium where venous blood is returned to the heart then pumped by the right ventricle through the pulmonary arteries to the <strong>pulmonary capillaries</strong>. Here is where blood picks up oxygen and gives off CO<sub>2</sub> from the and to the alveolar space – then that oxygenated blood travels through the pulmonary veins back to the left atrium and the pulmonary circulation has then ended.</p>
+<blockquote>
+<p>This oxygenated blood will then by pumped through the systemic capillaries,  and systemic venous blood then returns to the right atrium. The point is this is a series circuit so the cardiac output on the right side, is equal to the left side. there can be small differences but on average they have to be the same.</p>
+</blockquote>
+<p>The pressures on the pulmonary side are far less than the drive pressures on the  systemic side. It must be that the resistance on the pulmonary side is less because resistance is drive and pressure differential (outlet-inlet) divided by the flow, and the flow in the pulmonary and systemic circuit are the same. the pressures are very different in the pulmonary side compared to the systemic side. Pulmonary resistance is smaller than systemic vascular resistance. It turns out the resistance to flow through the lungs is less than <code>10%</code> of that of the rest of the body.</p>
+<p><strong>Vessel types in pulmonary circulation</strong></p>
+<p>There are different types of vessel, by function on the pulmonary side. These distributions are not so much anatomical, but more so by what they do.</p>
+<ul>
+<li>Extra alveolar vessels
+<ul>
+<li>arteries, arterioles, veins, venules</li>
+<li>not much influenced by alveolar pressure changes</li>
+<li>changes by intra plural and interstitial pressures</li>
+</ul>
+</li>
+<li>Alveolar capillaries<br>
+	- Run in the alveolar septa (Module 11, video 2)<br>
+	- sensitive to alveolar pressure changes<br>
+	- not sensitive to pleural or interstitial pressure changes</li>
+<li>Pulmonary microcirculation<br>
+	- kind of generic vessels, mostly involved in fluid balance.</li>
+</ul>
+<p>Flow is from the arterial side to the venous side There is a <strong>hydrostatic pressure</strong> that drives fluid out from the intravascular to the interstitial space. there is a <strong>oncotic pressure</strong> that drives fluid from the interstitial space into the vessel. We have encountered this oncotic pressure before, it has to do with the protein concentration concentration in the plasma. The hydrostatic pressure is from much earlier in the semester.</p>
+<p>Here the author of the text mentions <em>Starlings equation</em>, which is the balance of the flux in or out of the pulmonary vessels. <strong>normally there is a net flux of fluid out of the vessels into the interstitum, which is drained from the interstitial space by the lymphatic system.</strong> At average adult at rest has an average flow of about 30 mL/hour.</p>
+<p><strong>Pulmonary Vascular Resistance (PVR) (PVR)</strong></p>
+<p>This is PVR, and is equal to \(PVR = \times{P_{pa}-LAP}{CO}\). This is the pressure difference (initial pressure, minus the left atrial pressure, being the final pressure), divided by the cardiac output. Using the numbers from side two of this video then:</p>
+<p>\(PVR = (14-8)/6 = 1 mmHg/L/min \approx 0.1 SVR\)</p>
+<p>The pulmonary vasculature resistance is very soft, and the resistance is about 1/10 of the systemic vascular resistance (SVR).</p>
+<ul>
+<li>PVR of <strong>alveolar capillaries</strong> \(\uparrow\) at the end of inspiration.
+<ul>
+<li>resistance will increase because the expanded alveoli compress the capillaries; the capillaries run in the wall of the alveoli, in the septa. As they are compressed their resistance goes up.</li>
+</ul>
+</li>
+<li>PVR of <strong>extraalveolar vessels</strong>, the ones that aren’t in the alveolar septa \(\downarrow\) at the end of inspiration]
+<ul>
+<li>Because the lung parenchyma, the tissue in which they run, is pulled away from the vessel as the lung expands, and it increases in diameter.</li>
+</ul>
+</li>
+</ul>
+<p>The net result (combines to be a U shaped graph) is extra alveolar resistance plays a higher role at RV, and alveolar capillary resistance plays a bigger role at the TLC full capacity. In between at the FRC (~40%) there is a minimum point,o where the resistance is lowest, which is the intersection of the two graphs.</p>
+<p><strong>Distribution of Blood Flow</strong></p>
+<p>Influenced by gravity when standing in an upright position. It increases from the apex (top) to the base (bottom).</p>
+<ul>
+<li>Blood from Pulmonary Artery has to travel “up” to apex
+<ul>
+<li>This movement results in a pressure loss, reduced drive</li>
+</ul>
+</li>
+<li>Blood from PUlmonary Artery gets to travel “down” to the base
+<ul>
+<li>Increased hydrostatic pressure due to gravity, increased drive</li>
+</ul>
+</li>
+<li>Pulmonary alveolar pressure affects capillary resistance, therefore affects blood flow as well.</li>
+</ul>
+<p>Blood flow in a three zone model of the lung. Of interest is the apex, middle, and base. Here there are three pressures we look at – Alveolar (P<sub>A</sub>), Arterial (P<sub>a</sub>), and Venous (P<sub>V</sub>). The alveolar pressure is in between the arterial and venous pressure.</p>
+<ul>
+<li>Zone 1 - Apex - P<sub>A</sub> &gt; P<sub>a</sub> &gt; P<sub>V</sub>
+<ul>
+<li>The pressure in the alveoli is higher than that of the arteries or of the veins.</li>
+<li>Presumably the alveoli has enough pressure to squeeze the vessel shut and there will be no vessel. there are conditions under which this happens.</li>
+</ul>
+</li>
+<li>Zone 2 - Middle - P<sub>a</sub> &gt; P<sub>A</sub> &gt; P<sub>V</sub>
+<ul>
+<li>The arterial pressure is largest, the drive end pressure is enough to keep the vessel open. The arterial pressure is larger tan the venous pressure, so there will be a net drive towards the venous end.</li>
+<li>The farther down the lungs you travel, the more blood flow there is.</li>
+</ul>
+</li>
+<li>Zone 3 - Base - P<sub>a</sub> &gt; P<sub>V</sub> &gt; P<sub>A</sub>
+<ul>
+<li>Arterial pressure is greater than venous pressure, and greater than alveolar pressure, where the alveoli won’t affect at all.</li>
+</ul>
+</li>
+</ul>
+<h2 id="video-3-c---vq-matching">Video 3 C - V/Q Matching</h2>
+<p>Ventilation perfusion ratio can be taken for the respiratory system as a whole, or for a single lung, or a region of a lung. A normal ratio is \(\approx 0.8\). However this does not mean that ventilation and perfusion values themselves are normal. both could be increased or decreased.</p>
+<p>The ratio V/Q varies within the lung, we know that both ventilation and perfusion increase from the apex to the base as listed in the above videos. One thing that was not covered though was that ventilation has a smaller change than perfusion, so : <strong>V/Q at apex &gt; V/Q at base</strong>. By the time you get to the base of the lung, the increase in perfusion is larger than it is in ventilation.</p>
+<p>The V/Q also varies with defective capillaries or alveoli. If capillaries are not well perfused then Q will be low, giving a higher ratio. If alveoli are not well ventilated then V will be low and the ratio will be low.</p>
+<p><strong>Several Scenarios</strong></p>
+<p>For numbers near apex and base.</p>
+<h2 id="discussion-question">Discussion Question</h2>
+<p>How might an obstructive airway disease affect V/Q matching in the lung?</p>
+<h2 id="homework">Homework</h2>
+<ol>
+<li>Discuss/explain what is meant by the term <em>ventilation/perfusion matching</em>. Discuss/describe/explain the local mechanism(s) that control ventilation/perfusion matching.</li>
+<li>Distinguish between <em>anatomic dead space</em> and <em>physiologic dead space</em>.</li>
+<li>Differentiate between pulmonary minute ventilation and alveolar minute ventilation.</li>
+</ol>
+<hr>
+<h1 id="module-13">Module 13</h1>
+<h2 id="readings-2">Readings</h2>
+<h2 id="notes">Notes</h2>
+<h1 id="module-14">Module 14</h1>
+<h2 id="readings-3">Readings</h2>
+<h2 id="notes-1">Notes</h2></div>
+</body>
+
+</html>
